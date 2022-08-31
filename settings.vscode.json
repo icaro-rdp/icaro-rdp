@@ -1,0 +1,63 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.lint.cssConflict": "ignore",
+  "tailwindCSS.lint.invalidApply": "ignore",
+  "tailwindCSS.experimental.configFile": null,
+  "editor.fontSize": 17,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.inlineSuggest.enabled": true,
+
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": false
+  },
+
+  "angular.enable-strict-mode-prompt": false,
+  "workbench.colorTheme": "Andromeda Bordered",
+
+  "editor.fontFamily": "Fira Code",
+  "terminal.integrated.fontFamily": "Consolas",
+  "cSpell.language": "en,it",
+  "cSpell.userWords": [],
+  "cSpell.enableFiletypes": ["!blade"],
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.cursorStyle": "line-thin",
+
+  "editor.experimental.stickyScroll.enabled": true
+}
