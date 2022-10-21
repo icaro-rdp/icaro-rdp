@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on  FrontEnd projects eith focus on UX and Human/Computer interaction...
 - 📫 How to reach me @icaro.rdp on instagram, igher97@gmail.coom via mail...
 - 📖 Summaries of my favorite books at https://rationalthinking.it
+- :star: Check my resume/CV at https://icaro-rdp.github.io/resume/
 
 
 <!---
